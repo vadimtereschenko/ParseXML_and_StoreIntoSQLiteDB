@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<institutions>
+    <institution key="inst/8/083">
+        <name type="native" >Saint Petersburg State University of Service and Economics</name>
+        <name type="native" label="111">&#1057;&#1072;&#1085;&#1082;&#1090;-&#1055;&#1077;&#1090;&#1077;&#1088;&#1073;&#1091;&#1088;&#1075;&#1089;&#1082;&#1080;&#1081; &#1075;&#1086;&#1089;&#1091;&#1076;&#1072;&#1088;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1099;&#1081; &#1091;&#1085;&#1080;&#1074;&#1077;&#1088;&#1089;&#1080;&#1090;&#1077;&#1090; &#1089;&#1077;&#1088;&#1074;&#1080;&#1089;&#1072; &#1080; &#1101;&#1082;&#1086;&#1085;&#1086;&#1084;&#1080;&#1082;&#1080;</name>
+        <location country="ru" lat="59.8811" lon="30.4250">Saint Petersburg, Russia</location>
+        <id base="wp_en">Saint_Petersburg_State_University_of_Service_and_Economics</id>
+        <url>http://www.unecon.ru</url>
+    </institution>
+
+    <institution key="inst/8/731">
+        <name>Shadan Institute of Medical Sciences</name>
+        <name>Shadan Institute Of Medical Sciences Teaching Hospital and Research Centre</name>
+        <location country="in">Hyderabad, Telangana, India</location>
+        <id base="wp_en">Shadan_Institute_of_Medical_Sciences</id>
+        <url>http://www.shadan.in/aboutsims.html</url>
+    </institution>
+
+    <institution key="inst/8/980">
+        <name>University D&#382;emal Bijedi&#263; of Mostar</name>
+        <name type="native">Univerzitet "D&#382;emal Bijedi&#263;" u Mostaru&#1059;&#1085;&#1080;&#1074;&#1077;&#1088;&#1079;&#1080;&#1090;&#1077;&#1090; "&#1039;&#1077;&#1084;&#1072;&#1083; &#1041;&#1080;&#1112;&#1077;&#1076;&#1080;&#1115;" &#1091; &#1052;&#1086;&#1089;&#1090;&#1072;&#1088;&#1091;</name>
+        <name type="alternative">Universitas Studiorum Mostariensis</name>
+        <location country="ba">Mostar, Bosnia and Herzegovina</location>
+        <id base="wp_en">University_D&#382;emal_Bijedi&#263;_of_Mostar</id>
+        <url>http://www.unmo.ba</url>
+    </institution>
+
+    <institution key="inst/8/365">
+        <name>Salina Normal University</name>
+        <location country="us">Salina, Kansas, United States of America</location>
+        <id base="wp_en">Salina_Normal_University</id>
+    </institution>
+
+    <institution key="inst/8/562">
+        <name>Jerash Private University</name>
+        <name>Jerash University</name>
+        <name type="native">&#1580;&#1575;&#1605;&#1593;&#1577; &#1580;&#1585;&#1588;</name>
+        <location country="jo">Jerash, Jordan</location>
+        <id base="wp_en">Jerash_Private_University</id>
+        <url>http://www.jpu.edu.jo</url>
+    </institution>
+
+    <institution key="inst/8/558">
+        <name>Center for Strategic Studies Jordan</name>
+        <name>Center for Strategic Studies - Jordan</name>
+        <name type="native">&#1605;&#1585;&#1603;&#1586; &#1575;&#1604;&#1583;&#1585;&#1575;&#1587;&#1575;&#1578; &#1575;&#1604;&#1575;&#1587;&#1578;&#1585;&#1575;&#1578;&#1610;&#1580;&#1610;&#1577;</name>
+        <location country="jo" lat="32.0158" lon="35.8731">Amman, Jordan</location>
+        <id base="wp_en">Center_for_Strategic_Studies_Jordan</id>
+        <url>http://www.jcss.org</url>
+    </institution>
+
+    <institution key="inst/8/967">
+        <name>Yanbu University College</name>
+        <name type="old">University College - Yanbu</name>
+        <location country="sa"> Yanbu, Saudi Arabia</location>
+        <id base="wp_en">Yanbu_University_College</id>
+        <url>http://www.yuc.edu.sa</url>
+    </institution>
+
+    <institution key="inst/8/865">
+        <name>Middle East University</name>
+        <name type="native">&#1580;&#1600;&#1600;&#1600;&#1575;&#1605;&#1600;&#1600;&#1600;&#1593;&#1600;&#1600;&#1600;&#1577; &#1575;&#1604;&#1588;&#1585;&#1602; &#1575;&#1604;&#1575;&#1608;&#1587;&#1591;</name>
+        <location country="jo"> Amman, Jordan</location>
+        <id base="wp_en">Middle_East_University_(Jordan)</id>
+        <url>http://www.meu.edu.jo</url>
+    </institution>
+
+    <institution key="inst/8/106">
+        <name>ALHOSN University</name>
+        <location country="ae">Abu Dhabi, United Arab Emirates</location>
+        <id base="wp_en">ALHOSN_University</id>
+        <url>http://www.alhosnu.ae</url>
+    </institution>
+
+    <institution key="inst/8/442">
+        <name>SEGi University</name>
+        <name type="native">Universiti SEGi</name>
+        <location country="my">Kota Damansara, Petaling Jaya, Malaysia</location>
+        <id base="wp_en">SEGi_University</id>
+        <url>http://www.segi.edu.my</url>
+    </institution>
+
+    <institution key="inst/8/387">
+        <name>Shaheed Benazir Bhutto University, Sheringal</name>
+        <name>Shaheed Benazir Bhutto University&#1580;&#1575;&#1605;&#1593;&#1729; &#1588;&#1729;&#1740;&#1583; &#1576;&#1740;&#1606;&#1592;&#1740;&#1585; &#1576;&#1726;&#1657;&#1608;</name>
+        <location country="pk">Upper Dir District, Pakistan</location>
+        <id base="wp_en">Shaheed_Benazir_Bhutto_University,_Sheringal</id>
+        <url>http://www.sbbu.edu.pk</url>
+    </institution>
+
+    <institution key="inst/8/557">
+        <name>Saurashtra University</name>
+        <location country="in">Rajkot, Gujarat, India</location>
+        <id base="wp_en">Saurashtra_University</id>
+        <url>http://www.saurashtrauniversity.edu</url>
+    </institution>
+
+    <institution key="inst/8/470">
+        <name>School of Business and Engineering Vaud</name>
+        <name>School of Engineering and Business</name>
+        <location country="ch">Yverdon-les-bains, Switzerland</location>
+        <id base="wp_en">School_of_Business_and_Engineering_Vaud</id>
+        <url>http://www.heig-vd.ch</url>
+    </institution>
+
+    <institution key="inst/8/536">
+        <name>Shevchenko Transnistria State University</name>
+        <name>Taras Shevchenko Transnistria State University</name>
+        <location country="md" lat="46.8375" lon="29.6317">Tiraspol, Moldova</location>
+        <id base="wp_en">Shevchenko_Transnistria_State_University</id>
+        <url>http://www.spsu.ru</url>
+    </institution>
+
+    <institution key="inst/8/344">
+        <name>Korea University College of Political Science and Economics</name>
+        <name>College of Political Science and Economics</name>
+        <location country="kr" lat="37.5871" lon="127.0305">Seoul, South Korea</location>
+        <id base="wp_en">Korea_University_College_of_Political_Science_and_Economics</id>
+        <url>http://hoan.korea.ac.kr/index_eng.html</url>
+    </institution>
+
+    <institution key="inst/8/213">
+        <name>LRG University of Applied Sciences</name>
+        <location country="ch">Bulle, Bluche, Switzerland</location>
+        <id base="wp_en">LRG_University_of_Applied_Sciences</id>
+        <url>http://www.lrguas.ch</url>
+    </institution>
+
+    <institution key="inst/8/904">
+        <name>Inatel</name>
+        <name>Instituto Nacional de Telecomunicaes</name>
+        <location country="br" lat="-22.2572" lon="-45.6961">Santa Rita do Sapuca, Minas Gerais, Brazil</location>
+        <id base="wp_en">Inatel</id>
+        <url>http://www.inatel.br</url>
+    </institution>
+
+    <institution key="inst/8/347">
+        <name>International Medical and Technological University</name>
+        <location country="tz" lat="-6.7122" lon="39.2097">Dar es Salaam, Tanzania</location>
+        <id base="wp_en">International_Medical_and_Technological_University</id>
+        <url>http://imtu.ac.tz</url>
+    </institution>
+
+    <institution key="inst/8/079">
+        <name>University of Finance and Administration</name>
+        <location country="cz" lat="50.0833" lon="14.4411">Prague, Czech Republic</location>
+        <id base="wp_en">University_of_Finance_and_Administration</id>
+        <url>http://www.vsfs.cz</url>
+    </institution>
+
+    <institution key="inst/8/850">
+        <name>Istanbul &#350;ehir University</name>
+        <name type="native">stanbulehir ;niversitesi</name>
+        <location country="tr" lat="41.0257" lon="29.0455">Istanbul, Turkey</location>
+        <id base="wp_en">Istanbul_&#350;ehir_University</id>
+        <url>http://www.sehir.edu.tr/en/Pages/home.aspx</url>
+    </institution>
+
+    <institution key="inst/8/038">
+        <name>St. Paul University Dumaguete</name>
+        <name>Saint Paul University Dumaguete</name>
+        <location country="ph">Dumaguete City, Philippines</location>
+        <id base="wp_en">St._Paul_University_Dumaguete</id>
+        <url>http://www.spud.edu.ph</url>
+    </institution>
+
+    <institution key="inst/8/637">
+        <name>UAMS Northwest</name>
+        <name>UAMS College of Medicine</name>
+        <location country="us">Fayetteville, Arkansas, United States of America</location>
+        <id base="wp_en">UAMS_Northwest</id>
+        <url>http://www.uams.edu/nw/default.asp</url>
+    </institution>
+
+    <institution key="inst/8/094">
+        <name>Kalaivani College of Technology</name>
+        <location country="in">Coimbatore, Tamil Nadu, India</location>
+        <id base="wp_en">Kalaivani_College_of_Technology</id>
+        <url>http://www.kalaivaniinstitutions.edu.in</url>
+    </institution>
+
+    <institution key="inst/8/271">
+        <name>T John Institute of Management and Science</name>
+        <name>T. John Institute of Management and Science</name>
+        <location country="in" lat="12.8565" lon="77.5889">Bangalore, Karnataka, India</location>
+        <id base="wp_en">T_John_Institute_of_Management_and_Science</id>
+        <url>http://www.tjohngroup.com/tims.html</url>
+    </institution>
+
+    <institution key="inst/8/338">
+        <name>Kozminski University</name>
+        <name type="native">Akademia Leona Ko&#378;mi&#324;skiego</name>
+        <location country="pl" lat="52.2714" lon="21.0150">Warsaw, Poland</location>
+        <id base="wp_en">Kozminski_University</id>
+        <url>http://www.kozminski.edu.pl/en</url>
+    </institution>
+
+    <institution key="inst/8/179">
+        <name>Adikavi Nannaya University</name>
+        <name type="native">&#3078;&#3110;&#3135;&#3093;&#3125;&#3135; &#3112;&#3112;&#3149;&#3112;&#3119; &#3125;&#3135;&#3126;&#3149;&#3125;&#3125;&#3135;&#3110;&#3149;&#3119;&#3134;&#3122;&#3119;&#3074;</name>
+        <location country="in" lat="17.0171" lon="81.7827">Rajahmundry, Andhra Pradesh, India</location>
+        <id base="wp_en">Adikavi_Nannaya_University</id>
+    </institution>
+
+    <institution key="inst/8/214">
+        <name>Parker University</name>
+        <name type="old">Parker College of Chiropractic</name>
+        <location country="us">Dallas, Texas, United States of America</location>
+        <id base="wp_en">Parker_University</id>
+        <url>http://www.parker.edu</url>
+    </institution>
+
+    <institution key="inst/8/671">
+        <name>St. Stephen's College, Pathanapuram</name>
+        <name>St. Stephens College, Pathanapuram</name>
+        <location country="in" lat="9.0915" lon="76.8169"> Pathanapuram, Kerala, India</location>
+        <id base="wp_en">St._Stephen's_College,_Pathanapuram</id>
+        <url>http://ststephenspathanapuram.ac.in</url>
+    </institution>
+
+    <institution key="inst/8/042">
+        <name>University of the Southern Caribbean</name>
+        <name type="old" label="1956-2006">Caribbean Union College</name>
+        <location country="tt">Trinidad and Tobago</location>
+        <id base="wp_en">University_of_the_Southern_Caribbean</id>
+        <url>http://usc.edu.tt</url>
+    </institution>
+
+    <institution key="inst/8/440">
+        <name>Agusan del Sur College</name>
+        <name type="native">Kolehiyo nang Agusan del Sur</name>
+        <location country="ph">Narra Ave, Poblacion, Bayugan, Philippines</location>
+        <id base="wp_en">Agusan_del_Sur_College</id>
+        <url>http://agusandelsurcollege.com</url>
+    </institution>
+
+    <institution key="inst/8/535">
+        <name>Paul L. Foster School of Medicine</name>
+        <location country="us">El Paso, Texas, United States of America</location>
+        <id base="wp_en">Paul_L._Foster_School_of_Medicine</id>
+        <url>http://www.ttuhsc.edu/fostersom</url>
+    </institution>
+
+    <institution key="inst/8/640">
+        <name>Awadhesh Pratap Singh University</name>
+        <location country="in">Rewa, Madhya Pradesh, India</location>
+        <id base="wp_en">Awadhesh_Pratap_Singh_University</id>
+        <url>http://apsurewa.ac.in</url>
+    </institution>
+
+    <institution key="inst/8/371">
+        <name>Shanghai Business School</name>
+        <name type="native">&#19978;&#28023;&#21830;&#23398;&#38498;</name>
+        <location country="cn">Shanghai, China</location>
+        <id base="wp_en">Shanghai_Business_School</id>
+        <url>http://www.sbs.edu.cn/en</url>
+    </institution>
+
+    <institution key="inst/8/189">
+        <name>Kent State University at East Liverpool</name>
+        <name>Kent State Universityat East Liverpool</name>
+        <location country="us" lat="40.6170" lon="-80.5763">East Liverpool, Ohio, United States of America</location>
+        <id base="wp_en">Kent_State_University_at_East_Liverpool</id>
+        <url>http://www.col.kent.edu</url>
+    </institution>
+
+    <institution key="inst/8/966">
+        <name>University of Zenica</name>
+        <name type="native">Univerzitet u Zenici</name>
+        <name type="alternative">Universitas Studiorum Zenicaensis</name>
+        <location country="ba" lat="44.1992" lon="17.9019">Zenica, Bosnia and Herzegovina</location>
+        <id base="wp_en">University_of_Zenica</id>
+        <url>http://www.unze.ba</url>
+    </institution>
+
+    <institution key="inst/8/501">
+        <name>Phillips Beth Israel School of Nursing</name>
+        <location country="us" lat="40.7450" lon="-73.9911">New York, New York, United States of America</location>
+        <id base="wp_en">Phillips_Beth_Israel_School_of_Nursing</id>
+        <url>http://futurenursebi.org</url>
+    </institution>
+
+    <institution key="inst/8/325">
+        <name>MLR Institute of Technology</name>
+        <location country="in">Hyderabad, India, Telangana, India</location>
+        <id base="wp_en">MLR_Institute_of_Technology</id>
+        <url>http://www.mlrit.ac.in http://www.mlrinstitutions.ac.in</url>
+    </institution>
+
+    <institution key="inst/8/025">
+        <name>Galen University</name>
+        <location country="bz">San Ignacio, Belize</location>
+        <id base="wp_en">Galen_University</id>
+        <url>http://www.galen.edu.bz</url>
+    </institution>
+
+    <institution key="inst/8/255">
+        <name>College of Architecture and Planning</name>
+        <name type="abbrev">KNUST</name>
+        <location country="gh">Ghana</location>
+        <id base="wp_en">College_of_Architecture_and_Planning_(KNUST)</id>
+        <url>http://cap.knust.edu.gh</url>
+    </institution>
+
+    <institution key="inst/8/250">
+        <name>Bishop Stuart University</name>
+        <location country="ug" lat="-0.6028" lon="30.6956">Mbarara, Uganda</location>
+        <id base="wp_en">Bishop_Stuart_University</id>
+        <url>http://www.bsu.ac.ug</url>
+    </institution>
+
+    <institution key="inst/8/974">
+        <name>USU-Brigham City</name>
+        <location country="us" lat="41.4856" lon="-112.0189">Brigham City, Utah, United States of America</location>
+        <id base="wp_en">USU-Brigham_City</id>
+        <url>http://brighamcity.usu.edu</url>
+    </institution>
+
+    <institution key="inst/8/249">
+        <name>cole nationale suprieure de physique,lectronique et Matriaux</name>
+        <name>Phelma</name>
+        <location country="fr" lat="45.1950" lon="5.7101">Grenoble, France</location>
+        <id base="wp_en">cole_nationale_suprieure_de_physique,_lectronique_et_Matriaux</id>
+        <url>http://phelma.grenoble-inp.fr</url>
+    </institution>
+
+    <institution key="inst/8/006">
+        <name>UCF Center for Emerging Media</name>
+        <name>Center for Emerging Media</name>
+        <location country="us" lat="28.5467" lon="-81.3851">Orlando, Florida, United States of America</location>
+        <id base="wp_en">UCF_Center_for_Emerging_Media</id>
+        <url>http://cem.ucf.edu</url>
+    </institution>
+
+    <institution key="inst/8/472">
+        <name>Utah Water Research Laboratory</name>
+        <location country="us" lat="41.7397" lon="-111.7936">Logan, Utah, United States of America</location>
+        <id base="wp_en">Utah_Water_Research_Laboratory</id>
+        <url>http://uwrl.usu.edu</url>
+    </institution>
+
+    <institution key="inst/8/972">
+        <name>Hochschule Harz</name>
+        <location country="de">Wernigerode, Halberstadt, Germany</location>
+        <id base="wp_en">Hochschule_Harz</id>
+        <url>http://www.hs-harz.de</url>
+    </institution>
+
+    <institution key="inst/8/123">
+        <name>VisLab</name>
+        <name>Artificial Vision and Intelligent Systems Lab</name>
+        <location country="it" lat="44.7649" lon="10.3085">Parma, Italy</location>
+        <id base="wp_en">VisLab</id>
+        <url>http://www.vislab.it</url>
+    </institution>
+
+    <institution key="inst/8/744">
+        <name>Ho Chi Minh City University of Science</name>
+        <location country="vn" lat="10.8632" lon="106.7857">Ho Chi Minh City, Vietnam</location>
+        <id base="wp_en">Ho_Chi_Minh_City_University_of_Science</id>
+        <url>http://www.hcmus.edu.vn</url>
+    </institution>
+
+    <institution key="inst/8/140">
+        <name>University College Capital</name>
+        <name type="native">Professionshjskolen UCC</name>
+        <location country="dk">Copenhagen, Bornholm, North Zealand, Denmark</location>
+        <id base="wp_en">University_College_Capital</id>
+        <url>http://www.ucc.dk</url>
+    </institution>
+
+    <institution key="inst/8/363">
+        <name>Nanchang Hangkong University</name>
+        <name type="native">&#21335;&#26124;&#33322;&#31354;&#22823;&#23398;</name>
+        <location country="cn" lat="28.6568" lon="115.8287">Nanchang, Jiangxi, China</location>
+        <id base="wp_en">Nanchang_Hangkong_University</id>
+        <url>http://www.nchu.edu.cn</url>
+    </institution>
+
+    <institution key="inst/8/927">
+        <name>Moscow State Pedagogical University</name>
+        <name type="native">&#1052;&#1086;&#1089;&#1082;&#1086;&#1074;&#1089;&#1082;&#1080;&#1081; &#1087;&#1077;&#1076;&#1072;&#1075;&#1086;&#1075;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1081; &#1075;&#1086;&#1089;&#1091;&#1076;&#1072;&#1088;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1099;&#1081; &#1091;&#1085;&#1080;&#1074;&#1077;&#1088;&#1089;&#1080;&#1090;&#1077;&#1090;</name>
+        <location country="ru"> Moscow, Russia</location>
+        <id base="wp_en">Moscow_State_Pedagogical_University</id>
+        <url>http://www.mpgu.edu</url>
+    </institution>
+
+    <institution key="inst/8/202">
+        <name>Mohammadpur Central University College</name>
+        <name type="native">&#2478;&#2507;&#2489;&#2494;&#2478;&#2509;&#2478;&#2470;&#2474;&#2497;&#2480; &#2453;&#2503;&#2472;&#2509;&#2470;&#2509;&#2480;&#2496;&#2479;&#2492; &#2476;&#2495;&#2486;&#2509;&#2476;&#2476;&#2495;&#2470;&#2509;&#2479;&#2494;&#2482;&#2479;&#2492; &#2453;&#2482;&#2503;&#2460;</name>
+        <location country="bd" lat="23.7940" lon="90.4035">Dhaka, Bangladesh</location>
+        <id base="wp_en">Mohammadpur_Central_University_College</id>
+        <url>http://nu.edu.bd</url>
+    </institution>
+
+    <institution key="inst/8/704">
+        <name>University of Waterloo Stratford Campus</name>
+        <location country="ca" lat="43.3680" lon="-80.9818">Stratford, Ontario, Canada</location>
+        <id base="wp_en">University_of_Waterloo_Stratford_Campus</id>
+        <url>http://www.uwaterloo.ca/stratford-campus</url>
+    </institution>
+
+    <institution key="inst/8/674">
+        <name>Accurate Institute of Management and Technology</name>
+        <location country="in" lat="28.4640" lon="77.4870">Greater Noida, Uttar Pradesh, India</location>
+        <id base="wp_en">Accurate_Institute_of_Management_and_Technology</id>
+        <url>http://www.accurate.in</url>
+    </institution>
+
+    <institution key="inst/8/212">
+        <name>Nordhausen University of Applied Sciences</name>
+        <name type="native">Fachhochschule Nordhausen</name>
+        <location country="de" lat="51.4978" lon="10.8164">Nordhausen, Germany</location>
+        <id base="wp_en">Nordhausen_University_of_Applied_Sciences</id>
+        <url>http://www.fh-nordhausen.de/index.php?id=1L=1</url>
+    </institution>
+
+    <institution key="inst/8/586">
+        <name>Magnitogorsk State University</name>
+        <name type="native">&#1052;&#1072;&#1075;&#1085;&#1080;&#1090;&#1086;&#1075;&#1086;&#1088;&#1089;&#1082;&#1080;&#1081; &#1075;&#1086;&#1089;&#1091;&#1076;&#1072;&#1088;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1099;&#1081; &#1091;&#1085;&#1080;&#1074;&#1077;&#1088;&#1089;&#1080;&#1090;&#1077;&#1090;</name>
+        <location country="ru">Magnitogorsk, Russia</location>
+        <id base="wp_en">Magnitogorsk_State_University</id>
+        <url>http://www.masu.ru</url>
+    </institution>
+
+    <institution key="inst/8/926">
+        <name>Alternative Energy Institute</name>
+        <location country="us">Canyon, Texas, United States of America</location>
+        <id base="wp_en">Alternative_Energy_Institute</id>
+        <url>http://www.windenergy.org</url>
+    </institution>
+
+    <institution key="inst/8/767">
+        <name>Independent University of Business and Public Administration in Warsaw</name>
+        <location country="pl" lat="52.2013" lon="21.0458">Warsaw, Poland</location>
+        <id base="wp_en">Independent_University_of_Business_and_Public_Administration_in_Warsaw</id>
+    </institution>
+
+    <institution key="inst/8/845">
+        <name>Fordham Graduate School of Arts and Sciences</name>
+        <location country="us" lat="40.8620" lon="-73.8857">New York City, New York, United States of America</location>
+        <id base="wp_en">Fordham_Graduate_School_of_Arts_and_Sciences</id>
+        <url>http://www.fordham.edu/info/21263/graduate_school_of_arts_and_sciences</url>
+    </institution>
+
+    <institution key="inst/8/265">
+        <name>Prydniprovska State Academy of Civil Engineering and Architecture</name>
+        <name type="native">&#1055;&#1088;&#1080;&#1076;&#1085;&#1110;&#1087;&#1088;&#1086;&#1074;&#1089;&#1100;&#1082;&#1072; &#1076;&#1077;&#1088;&#1078;&#1072;&#1074;&#1085;&#1072; &#1072;&#1082;&#1072;&#1076;&#1077;&#1084;&#1110;&#1103; &#1073;&#1091;&#1076;&#1110;&#1074;&#1085;&#1080;&#1094;&#1090;&#1074;&#1072; &#1090;&#1072; &#1072;&#1088;&#1093;&#1110;&#1090;&#1077;&#1082;&#1090;&#1091;&#1088;&#1080;</name>
+        <location country="ua" lat="48.4532" lon="35.0539">Dnipropetrovsk, Ukraine</location>
+        <id base="wp_en">Prydniprovska_State_Academy_of_Civil_Engineering_and_Architecture</id>
+        <url>http://www.pgasa.dp.ua</url>
+    </institution>
+
+    <institution key="inst/8/273">
+        <name>University of CEMA</name>
+        <name type="abbrev">UCEMA</name>
+        <location country="ar" lat="-34.5988" lon="-58.3724">Buenos Aires, Argentina</location>
+        <id base="wp_en">University_of_CEMA</id>
+        <url>http://www.ucema.edu.ar</url>
+    </institution>
+
+    <institution key="inst/8/712">
+        <name>Sai Vidya Institute of Technology</name>
+        <location country="in" lat="13.1575" lon="77.5608">Bangalore, Karnataka, India</location>
+        <id base="wp_en">Sai_Vidya_Institute_of_Technology</id>
+        <url>http://saividya.ac.in</url>
+    </institution>
+
+    <institution key="inst/8/264">
+        <name>Ivanovo State University</name>
+        <name type="native">&#1048;&#1074;&#1072;&#1085;&#1086;&#1074;&#1089;&#1082;&#1080;&#1081; &#1075;&#1086;&#1089;&#1091;&#1076;&#1072;&#1088;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1099;&#1081; &#1091;&#1085;&#1080;&#1074;&#1077;&#1088;&#1089;&#1080;&#1090;&#1077;&#1090;</name>
+        <location country="ru"> Ivanovo, Russia</location>
+        <id base="wp_en">Ivanovo_State_University</id>
+        <url>http://www.ivanovo.ac.ru/en</url>
+    </institution>
+
+    <institution key="inst/8/597">
+        <name>Laboratory for Energy Conversion</name>
+        <name>LEC Zurich, Switzerland</name>
+        <location country="ch" lat="47.3764" lon="8.5481">Zurich, Switzerland</location>
+        <id base="wp_en">Laboratory_for_Energy_Conversion</id>
+        <url>http://www.lec.ethz.ch</url>
+    </institution>
+
+    <institution key="inst/8/854">
+        <name>Delmon University for Science  Technology</name>
+        <name type="native">&#1580;&#1575;&#1605;&#1593;&#1577; &#1583;&#1604;&#1605;&#1608;&#1606; &#1604;&#1604;&#1593;&#1604;&#1608;&#1605; &#1608;&#1575;&#1604;&#1578;&#1603;&#1606;&#1608;&#1604;&#1608;&#1580;&#1610;&#1575;</name>
+        <location country="bh">Manama, Bahrain</location>
+        <id base="wp_en">Delmon_University_for_Science__Technology</id>
+        <url>http://delmon.edu.bh</url>
+    </institution>
+
+    <institution key="inst/8/500">
+        <name>Pandit Deendayal Petroleum University</name>
+        <name type="native">&#2346;&#2306;&#2337;&#2367;&#2340; &#2342;&#2368;&#2344;&#2342;&#2351;&#2366;&#2354; &#2346;&#2375;&#2335;&#2381;&#2352;&#2379;&#2354;&#2367;&#2351;&#2350; &#2351;&#2370;&#2344;&#2367;&#2357;&#2352;&#2381;&#2360;&#2367;&#2335;&#2368;</name>
+        <location country="in" lat="23.1571" lon="72.6640">Raisan Village, Gandhinagar, Gujarat, India</location>
+        <id base="wp_en">Pandit_Deendayal_Petroleum_University</id>
+        <url>http://www.pdpu.ac.in</url>
+    </institution>
+
+    <institution key="inst/8/404">
+        <name>Kerala University of Health Sciences</name>
+        <name type="native">&#3349;&#3399;&#3376;&#3379; &#3334;&#3376;&#3403;&#3351;&#3405;&#3375; &#3384;&#3452;&#3381;&#3405;&#3381;&#3349;&#3378;&#3390;&#3382;&#3390;&#3378;</name>
+        <location country="in" lat="10.5232" lon="76.2171">Thrissur, Kerala, India</location>
+        <id base="wp_en">Kerala_University_of_Health_Sciences</id>
+        <url>http://kuhs.ac.in</url>
+    </institution>
+
+    <institution key="inst/8/141">
+        <name>Metropolitan University College</name>
+        <name type="native">Professionshjskolen Metropol</name>
+        <location country="dk" lat="55.6978" lon="12.5581">Copenhagen, Frederiksberg, N;rrebro, Aarhus, Rnne, Denmark</location>
+        <id base="wp_en">Metropolitan_University_College</id>
+        <url>http://www.phmetropol.dk</url>
+    </institution>
+
+    <institution key="inst/8/808">
+        <name>Uttarakhand Technical University</name>
+        <location country="in">Dehradun, Uttarakhand,, India</location>
+        <id base="wp_en">Uttarakhand_Technical_University</id>
+        <url>http://www.uktech.ac.in</url>
+    </institution>
+
+    <institution key="inst/8/656">
+        <name>Far Eastern University</name>
+        <name type="native">Pamantasan ng Malayong SilangananUniversidad de Extremo Oriente</name>
+        <location country="ph" lat="14.6038" lon="120.9855">Nicanor Reyes St., Sampaloc, Manila, Philippines</location>
+        <id base="wp_en">Far_Eastern_University</id>
+        <url>http://www.feu.edu.ph</url>
+    </institution>
+</institutions>
